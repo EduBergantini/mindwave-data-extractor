@@ -1,0 +1,63 @@
+C:\Projetos\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\bin\Debug\Assemblies\thinkgear.dll
+C:\Projetos\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\bin\Debug\BrainsOfTomorrow.MindWave.exe.config
+C:\Projetos\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\bin\Debug\BrainsOfTomorrow.MindWave.exe
+C:\Projetos\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\bin\Debug\BrainsOfTomorrow.MindWave.pdb
+C:\Projetos\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\bin\Debug\BrainsOfTomorrow.MindWave.Core.dll
+C:\Projetos\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\bin\Debug\BrainsOfTomorrow.MindWave.Core.pdb
+C:\Projetos\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\obj\Debug\BrainsOfTomorrow.MindWave.csprojResolveAssemblyReference.cache
+C:\Projetos\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\obj\Debug\BrainsOfTomorrow.MindWave.MainForm.resources
+C:\Projetos\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\obj\Debug\BrainsOfTomorrow.MindWave.Properties.Resources.resources
+C:\Projetos\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\obj\Debug\BrainsOfTomorrow.MindWave.csproj.GenerateResource.Cache
+C:\Projetos\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\obj\Debug\BrainsOfTomorrow.MindWave.exe
+C:\Projetos\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\obj\Debug\BrainsOfTomorrow.MindWave.pdb
+E:\root\Projetos\Projetos de Estudo\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\bin\Debug\BrainsOfTomorrow.MindWave.exe.config
+E:\root\Projetos\Projetos de Estudo\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\obj\Debug\BrainsOfTomorrow.MindWave.exe
+E:\root\Projetos\Projetos de Estudo\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\obj\Debug\BrainsOfTomorrow.MindWave.pdb
+E:\root\Projetos\Projetos de Estudo\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\bin\Debug\Assemblies\thinkgear.dll
+E:\root\Projetos\Projetos de Estudo\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\bin\Debug\BrainsOfTomorrow.MindWave.exe
+E:\root\Projetos\Projetos de Estudo\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\bin\Debug\BrainsOfTomorrow.MindWave.pdb
+E:\root\Projetos\Projetos de Estudo\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\bin\Debug\BrainsOfTomorrow.MindWave.Core.dll
+E:\root\Projetos\Projetos de Estudo\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\bin\Debug\BrainsOfTomorrow.MindWave.Core.pdb
+E:\root\Projetos\Projetos de Estudo\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\obj\Debug\BrainsOfTomorrow.MindWave.csprojResolveAssemblyReference.cache
+E:\root\Projetos\Projetos de Estudo\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\obj\Debug\BrainsOfTomorrow.MindWave.MainForm.resources
+E:\root\Projetos\Projetos de Estudo\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\obj\Debug\BrainsOfTomorrow.MindWave.Properties.Resources.resources
+E:\root\Projetos\Projetos de Estudo\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\obj\Debug\BrainsOfTomorrow.MindWave.csproj.GenerateResource.Cache
+I:\root\Projetos\Projetos de Estudo\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\bin\Debug\Assemblies\thinkgear.dll
+I:\root\Projetos\Projetos de Estudo\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\bin\Debug\BrainsOfTomorrow.MindWave.exe.config
+I:\root\Projetos\Projetos de Estudo\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\bin\Debug\BrainsOfTomorrow.MindWave.exe
+I:\root\Projetos\Projetos de Estudo\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\bin\Debug\BrainsOfTomorrow.MindWave.pdb
+I:\root\Projetos\Projetos de Estudo\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\bin\Debug\BrainsOfTomorrow.MindWave.Core.dll
+I:\root\Projetos\Projetos de Estudo\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\bin\Debug\ThinkGearNET.dll
+I:\root\Projetos\Projetos de Estudo\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\bin\Debug\BrainsOfTomorrow.MindWave.Core.pdb
+I:\root\Projetos\Projetos de Estudo\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\obj\Debug\BrainsOfTomorrow.MindWave.csprojResolveAssemblyReference.cache
+I:\root\Projetos\Projetos de Estudo\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\obj\Debug\BrainsOfTomorrow.MindWave.MainForm.resources
+I:\root\Projetos\Projetos de Estudo\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\obj\Debug\BrainsOfTomorrow.MindWave.Properties.Resources.resources
+I:\root\Projetos\Projetos de Estudo\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\obj\Debug\BrainsOfTomorrow.MindWave.csproj.GenerateResource.Cache
+I:\root\Projetos\Projetos de Estudo\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\obj\Debug\BrainsOfTomorrow.MindWave.exe
+I:\root\Projetos\Projetos de Estudo\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\obj\Debug\BrainsOfTomorrow.MindWave.pdb
+D:\root\Projetos\Projetos de Estudo\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\bin\Debug\Assemblies\thinkgear.dll
+D:\root\Projetos\Projetos de Estudo\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\bin\Debug\BrainsOfTomorrow.MindWave.exe.config
+D:\root\Projetos\Projetos de Estudo\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\bin\Debug\BrainsOfTomorrow.MindWave.exe
+D:\root\Projetos\Projetos de Estudo\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\bin\Debug\BrainsOfTomorrow.MindWave.pdb
+D:\root\Projetos\Projetos de Estudo\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\bin\Debug\BrainsOfTomorrow.MindWave.Core.dll
+D:\root\Projetos\Projetos de Estudo\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\bin\Debug\ThinkGearNET.dll
+D:\root\Projetos\Projetos de Estudo\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\bin\Debug\BrainsOfTomorrow.MindWave.Core.pdb
+D:\root\Projetos\Projetos de Estudo\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\obj\Debug\BrainsOfTomorrow.MindWave.csprojResolveAssemblyReference.cache
+D:\root\Projetos\Projetos de Estudo\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\obj\Debug\BrainsOfTomorrow.MindWave.MainForm.resources
+D:\root\Projetos\Projetos de Estudo\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\obj\Debug\BrainsOfTomorrow.MindWave.Properties.Resources.resources
+D:\root\Projetos\Projetos de Estudo\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\obj\Debug\BrainsOfTomorrow.MindWave.csproj.GenerateResource.Cache
+D:\root\Projetos\Projetos de Estudo\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\obj\Debug\BrainsOfTomorrow.MindWave.exe
+D:\root\Projetos\Projetos de Estudo\BrainsOfTomorrow.MindWave.Solution\BrainsOfTomorrow.MindWave\obj\Debug\BrainsOfTomorrow.MindWave.pdb
+C:\Projects\GIT\mindwave-data-extractor\BrainsOfTomorrow.MindWave\bin\Debug\Assemblies\thinkgear.dll
+C:\Projects\GIT\mindwave-data-extractor\BrainsOfTomorrow.MindWave\bin\Debug\BrainsOfTomorrow.MindWave.exe.config
+C:\Projects\GIT\mindwave-data-extractor\BrainsOfTomorrow.MindWave\bin\Debug\BrainsOfTomorrow.MindWave.exe
+C:\Projects\GIT\mindwave-data-extractor\BrainsOfTomorrow.MindWave\bin\Debug\BrainsOfTomorrow.MindWave.pdb
+C:\Projects\GIT\mindwave-data-extractor\BrainsOfTomorrow.MindWave\bin\Debug\BrainsOfTomorrow.MindWave.Core.dll
+C:\Projects\GIT\mindwave-data-extractor\BrainsOfTomorrow.MindWave\bin\Debug\ThinkGearNET.dll
+C:\Projects\GIT\mindwave-data-extractor\BrainsOfTomorrow.MindWave\bin\Debug\BrainsOfTomorrow.MindWave.Core.pdb
+C:\Projects\GIT\mindwave-data-extractor\BrainsOfTomorrow.MindWave\obj\Debug\BrainsOfTomorrow.MindWave.csprojResolveAssemblyReference.cache
+C:\Projects\GIT\mindwave-data-extractor\BrainsOfTomorrow.MindWave\obj\Debug\BrainsOfTomorrow.MindWave.MainForm.resources
+C:\Projects\GIT\mindwave-data-extractor\BrainsOfTomorrow.MindWave\obj\Debug\BrainsOfTomorrow.MindWave.Properties.Resources.resources
+C:\Projects\GIT\mindwave-data-extractor\BrainsOfTomorrow.MindWave\obj\Debug\BrainsOfTomorrow.MindWave.csproj.GenerateResource.Cache
+C:\Projects\GIT\mindwave-data-extractor\BrainsOfTomorrow.MindWave\obj\Debug\BrainsOfTomorrow.MindWave.exe
+C:\Projects\GIT\mindwave-data-extractor\BrainsOfTomorrow.MindWave\obj\Debug\BrainsOfTomorrow.MindWave.pdb
