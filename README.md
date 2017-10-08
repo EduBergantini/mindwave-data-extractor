@@ -15,7 +15,7 @@ por padrão as informações obtidas são extraidas no formato de **txt** e no f
 
 ## Arduino
 * Pareie o Mindwave com o Arduino
-* Compile, para o Arduino, um código que escreva para a porta serial as informações capturadas do Mindwave separadas por virgula(,). Vide [Minduino](https://github.com/EduBergantini/mindwave)
+* Compile, para o Arduino, um código que escreva para a porta serial as informações capturadas do Mindwave separadas por virgula(,). Vide [Minduino](https://github.com/EduBergantini/minduino)
 * Execute a aplicação Mindwave Data Extractor
 * Vá para a aba Arduino
 * Selecione a porta COM que o Arduino está se comunicando no computador em seguida clique em conectar
